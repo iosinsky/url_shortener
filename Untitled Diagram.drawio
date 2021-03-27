@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-03-27T06:33:11.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="3Wt1uRxoVRLX8xvIGaRF" version="14.5.3" type="github"><diagram id="IXVQ1Nhj0NisFSluEiop" name="Page-1">vZZdT9swFIZ/TS9T5au0uyyhZdqYhAQT2m4qNz5NDI4dHLdJ+PU7Tuy0gaINCQ0hxX59/HXeJyedREnRXCtS5j8kBT4JfdpMoqtJGAZxGE7Mv0/bXplfWCFTjNqgo3DHXsCKvlX3jEI1CtRScs3KsZhKISDVI40oJetx2E7y8a4lyeCNcJcS/lZ9YFTnvbqY+Uf9K7AsdzsHvh0piAu2QpUTKusTKVpNokRJqftW0STATfJcXvp563dGh4MpEPpfJojf9P7xgXnBY/vz17fn9obStWfNOBC+txeehBcc17vcSVwWT61bm4qL5710A17VGbXEgGBRNsdBbGX22a2ydcJ9+4TB10RDTVo3iofdvp6BWr+1k8PRKUJMY2maOTQkkwJDSlCsAA3qqN46CbN8WedMw11JUjOtRkxRy3XBsReY+7AGHHjBsOMBlIbm3VQHg4FIPkjcS+GtfDthoNdCH0a2Xx8RCuZWy8f4WHQtttmw9tFZbFhzP2D0/H8Z/R3ahEti3P6Azd5J+FY5lex1LhV7IZqh03hGUOjLu0iwonuZT801NjJ8m5ecZcjKlZbliXpDtsBvZcW69aOrrdRaFhjAzcAlSZ8yJfeCJpJL1e0V7bo/DOk2W1ZlX3R8c1rX6YhyIQZKrU21WhoHw3VKRTRlWK92TFBQ0xR3DNeUaIIPo1f4BI8DUYKJzJN7zZkAj7JKE5GCB3Sf2oysZ4HhYjVEb7jMPCY2pWIHkrZeEC6mpcg+gel4PmZ6dgbpcHEGaSd+OtKLN0gnnEEHs8Fpa4r/GVpKyQRWhtUBQyuLyVCbjY+UVLnxr+ucsFRpJZ/AsSCkgK56cH6CRxzFcTw7BwN/xVoKoitZf4fxPMPE9oZ1LCfJ8CH0+4t1r0bRZOb7PD0c6LSG7cYl51PKXTQm48sZMmJ/uojPwOF/vN5h9/jR7MZOfnpEqz8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-27T06:38:29.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="jA2Mc6utX-Cp3agrAahw" version="14.5.3" type="github">
+  <diagram id="IXVQ1Nhj0NisFSluEiop" name="Page-1">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nZdTjWi-1jyUYJqyLddF-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Tyk Gateway&lt;/b&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="230" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nZdTjWi-1jyUYJqyLddF-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;KeyCloak &lt;/b&gt;&lt;/font&gt;- &lt;br&gt;authorization server" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/e-learning-outline-distance-education/512/E-learning_log-in_privacy-128.png" parent="1" vertex="1">
+          <mxGeometry x="470" y="50" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="nZdTjWi-1jyUYJqyLddF-8" value="Client - browser" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" parent="1" vertex="1">
+          <mxGeometry x="30" y="90" width="140.84" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
